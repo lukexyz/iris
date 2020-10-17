@@ -29,7 +29,7 @@ def main():
         st.header("📺 Video Stream")
         st.text('Jeremy Ellis - Webcam capture on Codepen\nhttps://codepen.io/rocksetta/pen/BPbaxQ')
         st.text('Streamlit html component below')
-    html_component(path="html/webcam2.html", width=600, height=600)
+    html_component(path="webcam2.html", width=600, height=600)
 
 
 if __name__ == '__main__':
