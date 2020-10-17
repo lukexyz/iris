@@ -6,7 +6,7 @@ import streamlit.components.v1 as stc
 def html_component(path, width=500, height=500):
     """ 
     Custom component to open hmtl with codecs util
-            path = "html/webcam2.html"
+            path = "webcam2.html"
     """
     calc_file = codecs.open(path, 'r')
     page = calc_file.read()
