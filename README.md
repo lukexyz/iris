@@ -1,2 +1,2 @@
-# iris
-Streamlit web capture component
+# 📺 Video Stream
+Streamlit `html/js` component for webcam access.
