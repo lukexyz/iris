@@ -1,0 +1,4 @@
+opencv_python==4.5.1.48
+streamlit==0.75
+streamlit_webrtc==0.6.0
+av==8.0.2
